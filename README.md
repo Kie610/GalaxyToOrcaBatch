@@ -1,1 +1,6 @@
 # GalaxyToOrcaBatch
+フォルダ構成が、Orca SlicerとGalaxy Slicerでは違っているので参照しに行けない状態になっていますので
+
+一旦Orca Slicer内のprofilesフォルダの中身をすべて消した後、Galaxy Slicerのprofilesフォルダを適当なところにコピー
+
+その中に僕自作のバッチファイルを配置して、フォルダ構成を修正したら、Orca Slicer内のprofilesフォルダ内にコピーすれば完了です
